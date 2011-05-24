@@ -33,7 +33,7 @@
 # client publishes both D-Bus and X11 APIs so that other client
 # interfaces can be used, instead of the official GUI client. However,
 # even if you are not actually using the official Skype GUI, you need
-# the client running on the backg-- foreground so that the these API
+# the client running on the foreground (sic) so that the these API
 # services can be accessed, which of course, is annoying.
 #
 # This script makes it a bit more pleasant by running the Skype GUI on a
