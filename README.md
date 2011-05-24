@@ -13,7 +13,6 @@ different X server using
 so that you don't actually see the Skype GUI and the Skype API clients
 can continue to use it.
 
-
 ## Usage
 
 First, make sure you have configured the Skype client to automatically
@@ -31,6 +30,11 @@ This starts a GUI-less Skype client, and then starts the excellent
 [BitlBee Skype plugin](http://vmiklos.hu/project/bitlbee-skype/):
 
     ./skype-guiless skyped --nofork -c $HOME/.skyped/skyped.conf
+
+## Requirements
+
+* Skype *duh!*
+* Xvfb
 
 ## Author
 
