@@ -16,7 +16,7 @@ can continue to use it.
 ## Usage
 
 First, make sure you have configured the Skype client to automatically
-sing in when it starts.
+sign in when it starts.
 
 To run ``program-name [program-args, ...]`` along with a GUI-less
 Skype client:
