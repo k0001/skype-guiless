@@ -30,7 +30,7 @@ Skype client:
 This starts a GUI-less Skype client, and then starts the excellent
 [BitlBee Skype plugin](http://vmiklos.hu/project/bitlbee-skype/):
 
-  ./skype-guiless skyped --nofork -c $HOME/.skyped/skyped.conf
+    ./skype-guiless skyped --nofork -c $HOME/.skyped/skyped.conf
 
 ## Author
 
